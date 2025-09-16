@@ -1,4 +1,2 @@
 Hi, This is the first file
-:wq
 exit
-
